@@ -1,0 +1,2 @@
+CXX=g++
+CXXFLAGS=-DNTR_GOD -std=c++17 -O2
